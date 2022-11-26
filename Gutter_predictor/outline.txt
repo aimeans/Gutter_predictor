@@ -1,0 +1,5 @@
+what to use as data and features for machine learning
+    1. Footage
+    2. Color
+    3. date
+    4. 
